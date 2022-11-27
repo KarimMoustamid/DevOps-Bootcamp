@@ -1,4 +1,0 @@
-********************** DevOps Bootcamp **********************
-- Linux
-- Vim
-- Git & Github 
