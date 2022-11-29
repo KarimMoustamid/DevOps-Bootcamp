@@ -1,9 +1,9 @@
 # DevOps-Bootcamp : 
 
 ## Skills :
-- Linux
-- Vim
-- Git & Github 
+- [ ] Linux
+- [ ] Vim
+- [ ] Git & Github
 
 ## Curriculum : 
 1. [x] 1- Introduction to DevOps 
