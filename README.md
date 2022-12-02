@@ -1,8 +1,9 @@
 # DevOps-Bootcamp : 
 
 ## Skills :
-- [ ] Linux
-- [ ] Vim
+- [x] Linux
+- [x] Vim
+- [ ] Bash Scripting
 - [ ] Git & Github
 
 ## Curriculum : 
