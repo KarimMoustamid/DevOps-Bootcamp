@@ -3,12 +3,12 @@
 ## Skills :
 - [x] Linux
 - [x] Vim
-- [ ] Bash Scripting
+- [x] Bash Scripting
 - [ ] Git & Github
 
 ## Curriculum : 
 1. [x] 1- Introduction to DevOps 
-2. [ ] 2- Operating Systems & Linux Basics
+2. [x] 2- Operating Systems & Linux Basics
 3. [ ] 3- Version Control with Git + Bonus Databases Section
 4. [ ] 4- Build Tools and Package Manager Tools
 5. [ ] 5- Cloud & Infrastructure as Service Basics with DigitalOcean
